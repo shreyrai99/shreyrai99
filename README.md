@@ -1,11 +1,24 @@
 ### Hi there 👋
  
  
-<p align="center">  
-  <a href="https://www.instagram.com/shreyrai99"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png"></a>
-  <a href="https://www.linkedin.com/in/shrey-rai-314b8a192/"><img height="30" src="https://eoss.asu.edu/sites/default/files/styles/panopoly_image_original/public/linkedin-logo-icon.png?itok=GF6EWlU_"></a>
- <a href="https://leetcode.com/shreyrai99/"><img align="left" alt="Shrey's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /></a>
-</p>
+<br/>
+
+<a href="https://www.linkedin.com/in/shrey-rai-314b8a192/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/shreyrai99">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://leetcode.com/shreyrai99/">
+  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://www.codechef.com/users/shreyrai">
+  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=shreyrai99.shreyrai99)
+
+<br />
 
 
 
