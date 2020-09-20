@@ -20,11 +20,10 @@
 
 <br />
 
+I am an enthusiastic programmer trying to acquire new skills and learn latest technologies 😄
 
 
-
-
-Here are some ideas to get you started:
+---
 
 - 🔭 I’m a pre-final year CSE student @ BIT Mesra.
 - 🌱 I’m currently learning Machine Learning and Web Development.
@@ -34,6 +33,9 @@ Here are some ideas to get you started:
 - 📫 Hackathons I have taken Part in: Smart India Hackathon 2020 and Hack-A-Bit 2019.
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I am also a reliable batsman and a budding chess player 😄
+
+---
+
 
 
 [![Shrey's github stats](https://github-readme-stats.vercel.app/api?username=shreyrai99&show_icons=true&theme=radical)](https://github.com/shreyrai99/)
