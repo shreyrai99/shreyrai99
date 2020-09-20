@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, this is Shrey! 👋
  
  
 <br/>
@@ -22,19 +22,18 @@
 
 
 
-<!--
-**shreyrai99/shreyrai99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m a pre-final year CSE student @ BIT Mesra.
+- 🌱 I’m currently learning Machine Learning and Web Development.
+- 👯 I know Python,C++, HTML,CSS,JavaScript,Flask and Deep Learning Algorithms.
+- 🤔 Trying to strengthen my grip on Data Structures and Algorithms.
+- 💬 Ask me about anything about Cricket and new Technologies.
+- 📫 Hackathons I have taken Part in: Smart India Hackathon 2020 and Hack-A-Bit 2019.
+- 😄 Pronouns: Him/His
+- ⚡ Fun fact: I am also a reliable batsman and a budding chess player 😄
+
 
 [![Shrey's github stats](https://github-readme-stats.vercel.app/api?username=shreyrai99&show_icons=true&theme=radical)](https://github.com/shreyrai99/)
