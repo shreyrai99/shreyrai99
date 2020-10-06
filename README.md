@@ -29,7 +29,7 @@ I am an enthusiastic programmer trying to acquire new skills and learn latest te
 - 🌱 I’m currently learning Machine Learning and Web Development.
 - 👯 I know Python,C++, HTML,CSS,JavaScript,Flask and Deep Learning Algorithms.
 - 🤔 Trying to strengthen my grip on Data Structures and Algorithms.
-- 💬 Ask me anything about Cricket and new Technologies.
+- 💬 Ask me anything about Cricket,Tech and Marvel!
 - 📫 Hackathons I have taken Part in: Smart India Hackathon 2020 and Hack-A-Bit 2019.
 - 😄 Pronouns: Him/His.
 - ⚡ Fun fact: I am also a reliable batsman and a budding chess player😄
@@ -39,3 +39,9 @@ I am an enthusiastic programmer trying to acquire new skills and learn latest te
 
 
 [![Shrey's github stats](https://github-readme-stats.vercel.app/api?username=shreyrai99&show_icons=true&theme=radical)](https://github.com/shreyrai99/)
+
+---
+
+
+<a href="https://github.com/shreyrai99">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyrai99&theme=dark&hide_langs_below=1&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
