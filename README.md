@@ -20,7 +20,7 @@
 
 <br />
 
-I am an enthusiastic programmer trying to acquire new skills and learn latest technologies 😄
+I am an enthusiastic programmer trying to acquire new skills and learn latest technologies 
 
 
 ---
@@ -30,9 +30,8 @@ I am an enthusiastic programmer trying to acquire new skills and learn latest te
 - 👯 I know Python,C++, HTML,CSS,JavaScript,Flask and Deep Learning Algorithms.
 - 🤔 Trying to strengthen my grip on Data Structures and Algorithms.
 - 💬 Ask me anything about Cricket,Tech and Marvel!
-- 📫 Hackathons I have taken Part in: Smart India Hackathon 2020 and Hack-A-Bit 2019.
 - 😄 Pronouns: Him/His.
-- ⚡ Fun fact: I am also a reliable batsman and a budding chess player😄
+- ⚡ Fun fact: I am also a reliable batsman and a budding chess player
 
 ---
 
