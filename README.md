@@ -28,15 +28,15 @@ I am an enthusiastic programmer trying to acquire new skills and learn latest te
 - 🔭 I’m a pre-final year CSE student @ BIT Mesra.
 - 🌱 I’m currently learning Machine Learning and Web Development.
 - 👯 I know Python,C++, HTML,CSS,JavaScript,Flask and Deep Learning Algorithms.
-- 🤔 Trying to strengthen my grip on Data Structures and Algorithms.
-- 💬 Ask me anything about Cricket,Tech and Marvel!
-- 😄 Pronouns: Him/His.
-- ⚡ Fun fact: I am also a reliable batsman and a budding chess player
+- 💬 Trying to strengthen my grip on Data Structures and Algorithms.
 
 ---
 
 
 
 [![Shrey's github stats](https://github-readme-stats.vercel.app/api?username=shreyrai99&show_icons=true&theme=radical)](https://github.com/shreyrai99/)
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyrai99&hide=jupyter notebook&layout=compact" alt="Shrey" />
 
 
