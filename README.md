@@ -37,6 +37,7 @@ I am an enthusiastic programmer trying to acquire new skills and learn latest te
 [![Shrey's github stats](https://github-readme-stats.vercel.app/api?username=shreyrai99&show_icons=true&theme=radical)](https://github.com/shreyrai99/)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyrai99&hide=jupyter notebook&layout=compact" alt="Shrey" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyrai99&langs_count=8&hide=jupyter notebook&layout=compact" alt="Shrey" />
+
 
 
