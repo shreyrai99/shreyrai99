@@ -8,17 +8,13 @@
 
 <br />
 
-I am an enthusiastic programmer trying to acquire new skills and learn latest technologies 
+<h3> 👨🏻‍💻 About Me </h3>
 
+- 🔭 &nbsp; I’m a pre-final year CSE student @ BIT Mesra.
+- 🌱 &nbsp; I’m currently learning Machine Learning and Web Development.
+- ✍️ &nbsp; I know Python,C++, HTML,CSS,JavaScript,Flask and Deep Learning Algorithms.
+- 💬 &nbsp; Trying to strengthen my grip on Data Structures and Algorithms.
 
----
-
-- 🔭 I’m a pre-final year CSE student @ BIT Mesra.
-- 🌱 I’m currently learning Machine Learning and Web Development.
-- 👯 I know Python,C++, HTML,CSS,JavaScript,Flask and Deep Learning Algorithms.
-- 💬 Trying to strengthen my grip on Data Structures and Algorithms.
-
----
 
 
 
