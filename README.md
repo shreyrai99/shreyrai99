@@ -1,20 +1,8 @@
 ### Hi there, this is Shrey! 👋
- 
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shreyrai99/shreyrai99/master/gif3.gif" width="500"/>
  
 <br/>
 
-<a href="https://www.linkedin.com/in/shrey-rai-314b8a192/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/shreyrai99">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://leetcode.com/shreyrai99/">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.codechef.com/users/shreyrai">
-  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=shreyrai99.shreyrai99)
 
@@ -38,6 +26,16 @@ I am an enthusiastic programmer trying to acquire new skills and learn latest te
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyrai99&langs_count=8&hide=jupyter notebook&layout=compact" alt="Shrey" />
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://www.facebook.com/shrey.roy.9/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a> 
+&nbsp; <a href="https://twitter.com/shreyrai99" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/shreyrai99/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/shrey-rai-314b8a192/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:kumarshrey.21099@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
 
 
 
