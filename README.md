@@ -1,27 +1,22 @@
-### Hi there, this is Shrey! 👋
- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shreyrai99/shreyrai99/master/gif3.gif" width="500"/>
- 
-<br/>
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=shreyrai99.shreyrai99)
+### Hi there, I'm [Shrey!](https://shreyrai99.github.io/portfolio/)👋
 
 <br />
 
-<h3> 👨🏻‍💻 About Me </h3>
+---
 
-- 🔭 &nbsp; I’m a pre-final year CSE student @ BIT Mesra.
-- 🌱 &nbsp; I’m currently learning Machine Learning and Web Development.
-- ✍️ &nbsp; I know Python,C++, HTML,CSS,JavaScript,Flask and Deep Learning Algorithms.
+- 🔭 &nbsp; I’m  pursuing my Bachelors in Computer Science Engineering from Birla Institute of Technology,Mesra.
+- 🌱 &nbsp; I’m currently learning Web Development and Machine Learning.
 - 💬 &nbsp; Trying to strengthen my grip on Data Structures and Algorithms.
+- ✍️ &nbsp; Currently working with Javascript's React library and Python's Django framework.
 
+---
 
-
-
-[![Shrey's github stats](https://github-readme-stats.vercel.app/api?username=shreyrai99&show_icons=true&theme=radical)](https://github.com/shreyrai99/)
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyrai99&langs_count=8&hide=jupyter notebook&layout=compact" alt="Shrey" />
+<a href="https://github-readme-stats.vercel.app/api?username=shreyrai99&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyrai99&show_icons=true&theme=radical" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyrai99&langs_count=8&hide=jupyter notebook&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyrai99&langs_count=8&hide=jupyter notebook&layout=compact" />
+</a>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
