@@ -22,11 +22,15 @@ I am a passionate tech enthusiast trying to acquire new skills.
 <a href="https://github-readme-stats.vercel.app/api?username=shreyrai99&show_icons=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyrai99&show_icons=true&theme=radical" />
 </a>
+
+
+
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyrai99&langs_count=8&hide=jupyter notebook&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyrai99&langs_count=8&hide=jupyter notebook&layout=compact" />
 </a>
 
-**Languages And Tools I am Currently Learning:**  
+<br /> <br />
+### Languages And Tools I am Currently Learning: 
 
 <p align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
