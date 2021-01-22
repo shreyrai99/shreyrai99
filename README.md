@@ -19,17 +19,11 @@ I am a passionate tech enthusiast trying to acquire new skills.
 
 ---
 
-<a href="https://github-readme-stats.vercel.app/api?username=shreyrai99&show_icons=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyrai99&show_icons=true&theme=radical" />
-</a>
+<img align="left" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyrai99&theme=radical&langs_count=8&hide=jupyter notebook&layout=compact"></img>
+<img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=shreyrai99&count_private=true&show_icons=true&theme=radical&include_all_commits=true&layout=compact"></img>
 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyrai99&langs_count=8&hide=jupyter notebook&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyrai99&langs_count=8&hide=jupyter notebook&layout=compact" />
-</a>
-
-<br /> <br />
 ### Languages And Tools I am Currently Learning: 
 
 <p align="left">
