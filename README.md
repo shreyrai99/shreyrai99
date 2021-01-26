@@ -15,8 +15,13 @@ I am a passionate tech enthusiast trying to acquire new skills.
 - 🔭 &nbsp; I’m  pursuing my Bachelors in Computer Science Engineering from Birla Institute of Technology,Mesra.
 - 🌱 &nbsp; Currently learning Web Development and Machine Learning.
 - 💬 &nbsp; Trying to strengthen my grip on Data Structures and Algorithms.
+- 📫 &nbsp; My Competitive Coding Profiles:
+  - &nbsp; [Codechef](https://www.codechef.com/users/shreyrai)
+  - &nbsp; [Leetcode](https://leetcode.com/shreyrai99/)
+  - &nbsp; [Hackerrank](https://www.hackerrank.com/kumarshrey_21099?hr_r=1)
+  - &nbsp; [Hackerearth](https://www.hackerearth.com/@shrey162)
+  - &nbsp; [SPOJ](https://www.spoj.com/users/shreyrai99/)
 - 😄 &nbsp; Ask me about anything about Cricket!
-
 ---
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyrai99&theme=radical&langs_count=8&hide=jupyter notebook&layout=compact">
@@ -28,6 +33,8 @@ I am a passionate tech enthusiast trying to acquire new skills.
 </a>
 
 <br/><br/>
+
+<!--
 
 ### Languages And Tools I am Currently Learning: 
 
@@ -46,5 +53,7 @@ I am a passionate tech enthusiast trying to acquire new skills.
   <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>  
   <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>  
 </p>
+
+--!>
 
 
