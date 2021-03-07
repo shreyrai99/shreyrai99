@@ -29,11 +29,11 @@ I am a passionate tech enthusiast trying to acquire new skills.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyrai99&theme=radical&langs_count=8&hide=jupyter notebook&layout=compact" alt="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyrai99&hide=jupyter notebook&layout=compact" />
 </a> --!>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyrai99&hide=jupyter notebook&layout=compact" alt="Shrey" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyrai99&theme=radical&hide=jupyter notebook&layout=compact" alt="Shrey" />
 <br/> <br/> <br/>
 <a href="https://github-readme-stats.vercel.app/api?username=shreyrai99&count_private=true&show_icons=true&theme=radical&include_all_commits=true&layout=compact">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyrai99&count_private=true&show_icons=true&include_all_commits=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyrai99&theme=radical&count_private=true&show_icons=true&include_all_commits=true&layout=compact" />
 </a>
 
 
