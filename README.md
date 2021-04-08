@@ -1,8 +1,7 @@
 ### Hi there, I'm [Shrey!](https://shreyrai99.github.io/portfolio/)👋
 
-I am a passionate tech enthusiast trying to acquire new skills.
 
-<p align="center">
+<p align="left">
 &nbsp; <a href="https://www.facebook.com/shrey.roy.9/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a> 
 &nbsp; <a href="https://twitter.com/ShreyRai6" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a> 
 &nbsp; <a href="https://www.instagram.com/shreyrai99/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
@@ -12,6 +11,7 @@ I am a passionate tech enthusiast trying to acquire new skills.
 
 ---
 
+- 🚀 &nbsp; I am a passionate tech enthusiast who always looks forward to learn and acquire new skills.
 - 🔭 &nbsp; I’m  pursuing my Bachelors in Computer Science Engineering from Birla Institute of Technology,Mesra.
 - 🌱 &nbsp; Currently learning Web Development and Machine Learning.
 - 💬 &nbsp; Trying to strengthen my grip on Data Structures and Algorithms.
