@@ -1,14 +1,10 @@
 ### Hi there, I'm [Shrey!](https://shreyrai99.github.io/portfolio/)👋 
 
-<p align="left">
-&nbsp; <a href="https://www.linkedin.com/in/shrey-rai-314b8a192/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:kumarshrey.21099@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
+I am a passionate tech enthusiast who always looks forward to learn and acquire new skills. I like to turn ideas into code. I have the experience of taking part in some renowned hackathons like Smart India Hackathon and Hack-A-Bit. I use Compitetive Coding as a tool to make a strong grip on Algorithms and Data structures. Besides programming, I love reading non-fiction books and playing cricket.
 
 ---
 
-- 🚀 &nbsp; I am a passionate tech enthusiast who always looks forward to learn and acquire new skills.
-- 🔭 &nbsp; I’m  pursuing my Bachelors in Computer Science Engineering from Birla Institute of Technology,Mesra.
+- 🚀 &nbsp; I’m  pursuing my Bachelors in Computer Science Engineering from Birla Institute of Technology,Mesra.
 - 🌱 &nbsp; Currently learning Web Development and Machine Learning.
 - 💬 &nbsp; Trying to strengthen my grip on Data Structures and Algorithms.
 - 📫 &nbsp; My Competitive Coding Profiles:
@@ -18,6 +14,32 @@
   - &nbsp; [Hackerearth](https://www.hackerearth.com/@shrey162)
   - &nbsp; [SPOJ](https://www.spoj.com/users/shreyrai99/)
 - 😄 &nbsp; Ask me about anything about Cricket!
+---
+
+## Connect with me:
+
+[<img align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />](https://www.linkedin.com/in/shreyrai99/)
+[<img align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />](https://www.instagram.com/shreyrai99/)
+[<img align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" />](mailto:kumarshrey.21099@gmail.com) <br>
+
+---
+
+## Languages and Tools:
+
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png" title="C"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/python.png" title="Python" /></code>
+<code><img width="40px" height="48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JS"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" title="C#"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/></code>
+<code><img width="40px" height="48px" src="https://github.com/Avani18/Avani18/blob/main/mysqllogo.png" title="MySQL"/></code>
+<code><img width="40px" src="https://img.icons8.com/fluency/48/000000/azure-1.png" title="Azure"/></code>
+<code><img width="40px" src="https://img.icons8.com/fluent/2x/github.png" title="GitHub"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
+<code><img width="40px" src="https://github.com/Avani18/Avani18/blob/main/jupyterlogo.png" title="Jupyter Notebook"/></code>
+<code><img width="40px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" title="Visual Studio Code"/></code>
+
+
 ---
 
 <!--
