@@ -1,4 +1,4 @@
-### Hi there, I'm [Shrey!](https://shreyrai99.github.io/portfolio/)👋 
+### Hi there, I'm [Shrey!](https://shreyrai99.github.io/website/)👋 
 
 I am a passionate tech enthusiast who always looks forward to learn and acquire new skills. I like to turn ideas into code. I have the experience of taking part in some renowned hackathons like Smart India Hackathon and Hack-A-Bit. I use Compitetive Coding as a tool to make a strong grip on Algorithms and Data structures. Besides programming, I love reading non-fiction books and playing cricket.
 
